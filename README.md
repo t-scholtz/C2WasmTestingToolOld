@@ -1,6 +1,8 @@
 # C2WasmTestingToolOld
 Mutation testing tool for C to Wasm conversion
 
+Zip files are identical, just different formats
+
 To use you will need to download:
 Mull mutation testing tool - https://mull.readthedocs.io/en/0.17.0/SupportedMutations.html
 Emscripten - https://github.com/emscripten-core/emscripten}
